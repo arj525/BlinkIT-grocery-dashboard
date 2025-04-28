@@ -7,7 +7,7 @@
 
 # # Load Excel
 # df = pd.read_excel("BlinkIT Grocery Data Excel.xlsx")
-
+###
 # # Prepare output directory
 # output_dir = "all_graphs_output"
 # os.makedirs(output_dir, exist_ok=True)
