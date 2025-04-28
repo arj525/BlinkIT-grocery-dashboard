@@ -17,7 +17,7 @@
 #     "Item Type": "Category",
 #     "Total Sales": "Sales",
 #     "Rating": "Orders",  # Temporary mapping for demo
-#     "Item Identifier": "Product",
+#     "Item Identifier": "Product",#
 #     "Outlet Location Type": "Region"
 # })
 
