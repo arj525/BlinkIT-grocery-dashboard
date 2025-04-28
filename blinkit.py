@@ -11,7 +11,7 @@
 # # Prepare output directory
 # output_dir = "all_graphs_output"
 # os.makedirs(output_dir, exist_ok=True)
-
+#
 # # Rename for consistency
 # df = df.rename(columns={
 #     "Item Type": "Category",
