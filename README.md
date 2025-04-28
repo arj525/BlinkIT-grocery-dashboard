@@ -15,6 +15,11 @@ An interactive data visualization dashboard built using Python and Dash, inspire
 | `dashboard.py` | Main dashboard application built using Dash and Plotly for interactive visualizations. |
 | `tempCodeRunnerFile.py` | Temporary file used during code testing/debugging (can be ignored or deleted). |
 
+
+Dashboard.py
+![Screenshot 2025-04-13 230152](https://github.com/user-attachments/assets/ad2a1bbe-4c8b-46dc-aa33-216958373b35)
+
+
 ---
 
 ## 📊 Features
