@@ -26,7 +26,7 @@
 
 # # Define color palette
 # COLOR_PALETTE = px.colors.qualitative.Set2
-
+#
 # # 1. Bar Chart – Total Sales per Product Category
 # fig = px.bar(
 #     df.groupby("Category")["Sales"].sum().reset_index(),
