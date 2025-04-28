@@ -5,7 +5,8 @@
 # import matplotlib.pyplot as plt
 # import os
 
-# # Load Excel
+# # Load Excel#
+
 # df = pd.read_excel("BlinkIT Grocery Data Excel.xlsx")
 
 # # Prepare output directory
